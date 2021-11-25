@@ -3,6 +3,8 @@ home: true
 heroImage: /logo.png
 actionText: 下载
 actionLink: /zh-hans/download.html
+secondaryActionText: 频道
+secondaryActionLink: https://t.me/zuragram
 features:
 - title: 外观
   details: 使用您的头像作为抽屉背景、使用系统字体或表情符号、让状态栏透明等等。

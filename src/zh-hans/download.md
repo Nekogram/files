@@ -2,6 +2,6 @@
 
 **需求:** Android 5.0 以上设备
 
-[Telegram Channel](https://t.me/NekogramAPKss)
+[APK 频道](https://t.me/NekogramAPKs)
 
 [GitHub](https://github.com/tehcneko/nekogram-files/releases)

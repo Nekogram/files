@@ -3,6 +3,8 @@ home: true
 heroImage: /logo.png
 actionText: Download
 actionLink: /download.html
+secondaryActionText: Channel
+secondaryActionLink: https://t.me/nekoupdates
 features:
 - title: Appearence
   details: Use your avatar as drawer header background, use system emojis, let the status bar be transparent, and more.
