@@ -74,7 +74,7 @@ module.exports = {
             buttonText: "Refresh"
           }
         },
-        nav: getNavbar('/', 'Features', 'Download', 'Changelog'),
+        nav: getNavbar('/', 'Features', 'Download', 'Changelog', 'Contribute translations'),
         lastUpdated: 'Last Updated'
       },
       '/zh-hans/': {
@@ -86,7 +86,7 @@ module.exports = {
             buttonText: "刷新"
           }
         },
-        nav: getNavbar('/zh-hans/', '特性', '下载', '更新日志'),
+        nav: getNavbar('/zh-hans/', '特性', '下载', '更新日志', '贡献翻译'),
         lastUpdated: '最后更新'
       }
     },
@@ -136,10 +136,11 @@ module.exports = {
   ]
 }
 
-function getNavbar(prefix, features, download, changelog) {
+function getNavbar(prefix, features, download, changelog, translations) {
   return [
-    { text: features, link: `${prefix}features.html` },
+    //{ text: features, link: `${prefix}features.html` },
     { text: download, link: `${prefix}download.html` },
     { text: changelog, link: `${prefix}changelog.html` },
+    { text: translations, link: `https://neko.crowdin.com/nekogram` },
   ]
 }
