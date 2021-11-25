@@ -1,0 +1,11 @@
+{  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "devDependencies": {
+    "moment": "^2.29.1",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-clean-urls": "^1.1.2",
+    "vuepress-plugin-sitemap": "^2.3.1"
+  }
+}
