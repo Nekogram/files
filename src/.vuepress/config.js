@@ -80,6 +80,7 @@ module.exports = {
       '/zh-hans/': {
         selectText: '语言',
         label: '简体中文',
+        editLinkText: '在 GitHub 上编辑此页',
         serviceWorker: {
           updatePopup: {
             message: "发现新内容可用.",
@@ -95,6 +96,8 @@ module.exports = {
     serviceWorker: {
       updatePopup: true
     },
+    docsRepo: 'https://github.com/tehcneko/nekogram-files',
+    docsDir: 'src',
     editLinks: true
   },
   plugins: [
