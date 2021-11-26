@@ -97,6 +97,7 @@ module.exports = {
       updatePopup: true
     },
     docsRepo: 'https://github.com/tehcneko/nekogram-files',
+    docsBranch: 'main',
     docsDir: 'src',
     editLinks: true
   },
