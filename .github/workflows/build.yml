@@ -25,7 +25,7 @@ jobs:
       run: npm install
 
     - name: Build
-      run: npm build
+      run: npm src build
 
     - uses: JamesIves/github-pages-deploy-action@4.0.0
       with:
