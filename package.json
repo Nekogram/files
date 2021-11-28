@@ -4,6 +4,7 @@
     "build": "vuepress build src"
   },
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.8.2",
     "moment": "^2.29.1",
     "vuepress": "^1.8.2",
     "vuepress-plugin-clean-urls": "^1.1.2",
