@@ -96,6 +96,7 @@ module.exports = {
     serviceWorker: {
       updatePopup: true
     },
+    repo: 'https://gitlab.com/Nekogram/Nekogram',
     docsRepo: 'https://github.com/tehcneko/nekogram-files',
     docsBranch: 'main',
     docsDir: 'src',
