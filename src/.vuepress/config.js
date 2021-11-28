@@ -74,7 +74,7 @@ module.exports = {
             buttonText: "Refresh"
           }
         },
-        nav: getNavbar('/', 'Features', 'Download', 'Changelog', 'Contribute translations'),
+        nav: getNavbar('/', 'Features', 'Download', 'Changelog', 'Translations'),
         lastUpdated: 'Last Updated'
       },
       '/zh-hans/': {
@@ -87,7 +87,7 @@ module.exports = {
             buttonText: "刷新"
           }
         },
-        nav: getNavbar('/zh-hans/', '特性', '下载', '更新日志', '贡献翻译'),
+        nav: getNavbar('/zh-hans/', '特性', '下载', '更新日志', '翻译'),
         lastUpdated: '最后更新'
       }
     },
