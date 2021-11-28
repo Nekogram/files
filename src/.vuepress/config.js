@@ -56,11 +56,11 @@ module.exports = {
   locales: {
     '/': {
       lang: 'en',
-      description: 'Nekogram is a third-party Telegram client with not many but useful modifications'
+      description: 'Nekogram is an open-source third-party Telegram client with not many but useful mods'
     },
     '/zh-hans/': {
       lang: 'zh-Hans',
-      description: 'Nekogram 是一个修改不多但都很有用的第三方 Telegram 客户端'
+      description: 'Nekogram 是一个修改不多但都很有用的开源第三方 Telegram 客户端'
     },
   },
   themeConfig: {
