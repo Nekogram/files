@@ -136,6 +136,12 @@ module.exports = {
           return localized
         }
       }
+    ],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-68662540-8'
+      }
     ]
   ]
 }
