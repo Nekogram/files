@@ -55,12 +55,10 @@ module.exports = {
   ],
   locales: {
     '/': {
-      lang: 'en',
-      description: 'Nekogram is an open-source third-party Telegram client with not many but useful mods'
+      lang: 'en'
     },
     '/zh-hans/': {
-      lang: 'zh-Hans',
-      description: 'Nekogram 是一个修改不多但都很有用的开源第三方 Telegram 客户端'
+      lang: 'zh-Hans'
     },
   },
   themeConfig: {
@@ -142,6 +140,15 @@ module.exports = {
       '@vuepress/google-analytics',
       {
         'ga': 'UA-68662540-8'
+      }
+    ],
+    [
+      'autometa',
+      {
+        site: {
+          name: 'Nekogram',
+        },
+        canonical_base: 'https://nekogram.app',
       }
     ]
   ]

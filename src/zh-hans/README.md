@@ -1,6 +1,7 @@
 ---
 home: true
 heroImage: /logo.png
+description: Nekogram 是一个修改不多但都很有用的开源第三方 Telegram 客户端
 actionText: 下载
 actionLink: /zh-hans/download.html
 secondaryActionText: 频道
