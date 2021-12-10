@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.3.1 (2021-12-10)
+
+- Bug fixes and other improvements
+
 ## 8.3.0 (2021-12-07)
 
 - <https://telegram.org/blog/protected-content-delete-by-date-and-more>

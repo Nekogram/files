@@ -1,5 +1,9 @@
 # 更新日志
 
+## 8.3.1 (2021-12-10)
+
+- 错误修复和其他改进
+
 ## 8.3.0 (2021-12-07)
 
 - <https://telegram.org/blog/protected-content-delete-by-date-and-more>
