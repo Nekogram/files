@@ -1,5 +1,13 @@
 # Changelog
 
+## 8.3.1.1 (2021-12-19)
+
+- Added support for login with QR code
+- Added an option to use an external translator instead of the built-in one
+- Fixed "Delete downloaded file" is not shown for videos
+- Fixed in-app YouTube player
+- Bug fixes and other improvements
+
 ## 8.3.1 (2021-12-10)
 
 - Bug fixes and other improvements
