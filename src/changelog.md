@@ -1,5 +1,11 @@
 # Changelog
 
+## 8.3.1.2 (2021-12-24)
+
+- Fixed calls and notifications on Android 12
+- Fixed some accessbility bugs (Thanks to @sashablr_1994)
+- Bug fixes and other improvements
+
 ## 8.3.1.1 (2021-12-19)
 
 - Added support for login with QR code
