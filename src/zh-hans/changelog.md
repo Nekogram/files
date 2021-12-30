@@ -1,5 +1,9 @@
 # 更新日志
 
+## 8.4.1 (2021-12-30)
+
+- <https://telegram.org/blog/reactions-spoilers-translations>
+
 ## 8.3.1.2 (2021-12-24)
 
 - 修复 Android 12 上的通话与通知

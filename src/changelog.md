@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.4.1 (2021-12-30)
+
+- <https://telegram.org/blog/reactions-spoilers-translations>
+
 ## 8.3.1.2 (2021-12-24)
 
 - Fixed calls and notifications on Android 12
