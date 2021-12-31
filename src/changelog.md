@@ -1,6 +1,6 @@
 # Changelog
 
-## 8.4.1 (2021-12-30)
+## 8.4.2 (2021-12-31)
 
 - <https://telegram.org/blog/reactions-spoilers-translations>
 
