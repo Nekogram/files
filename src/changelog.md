@@ -8,7 +8,7 @@
 - Bug fixes and other improvements
 
 #### Android 12 only:
-- Use CallStyle notifications for calls
+- Use `CallStyle` notifications for calls
 - Allow sending photos from notification quick reply
 - Allow drop photos in to chat to send
 
