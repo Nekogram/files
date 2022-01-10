@@ -1,5 +1,17 @@
 # Changelog
 
+## 8.4.3 (2022-01-10)
+
+- Add accessibility support for reactions
+- Allow copy and paste photos from clipboard
+- "Save to downloads" now shows a notification instead of a progress dialog
+- Bug fixes and other improvements
+
+#### Android 12 only:
+- Use CallStyle notifications for calls
+- Allow sending photos from notification quick reply
+- Allow drop photos in to chat to send
+
 ## 8.4.2 (2021-12-31)
 
 - <https://telegram.org/blog/reactions-spoilers-translations>
