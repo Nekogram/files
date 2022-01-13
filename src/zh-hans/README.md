@@ -15,5 +15,5 @@ features:
   details: 翻译消息和文章，有 5 种翻译引擎可供选择。
 - title: 实验性
   details: 自定义 Emoji 字体、无限置顶聊天或收藏贴纸。
-footer: Copyright © 2021 NekoWorkshop ‧ Made with ❤️
+footer: Copyright © 2022 NekoWorkshop ‧ Made with ❤️
 ---
