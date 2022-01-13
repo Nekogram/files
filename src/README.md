@@ -15,5 +15,5 @@ features:
   details: Translate messages and articles, with 5 translation engines to choose from.
 - title: Experimental
   details: Custom emoji font, unlimited pinned chats or favorited stickers.
-footer: Copyright © 2021 NekoWorkshop ‧ Made with ❤️
+footer: Copyright © 2022 NekoWorkshop ‧ Made with ❤️
 ---
