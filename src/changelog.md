@@ -1,5 +1,10 @@
 # Changelog
 
+## 8.4.4 (2022-01-19)
+
+- Allow set icons for folders
+- Bug fixes and other improvements
+
 ## 8.4.3 (2022-01-10)
 
 - Add accessibility support for reactions
