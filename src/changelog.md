@@ -2,7 +2,7 @@
 
 ## 8.4.4 (2022-01-19)
 
-- Allow set icons for folders
+- Allow set icons for chat folders
 - Bug fixes and other improvements
 
 ## 8.4.3 (2022-01-10)
