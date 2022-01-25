@@ -1,10 +1,10 @@
 # Privacy Policy
 
-Last updated: January 17, 2022
+Last updated: January 25, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. 
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
 # Interpretation and Definitions
 
@@ -55,7 +55,7 @@ For the purposes of this Privacy Policy:
 
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
-
+- Email address
 - First name and last name
 - Phone number
 
@@ -84,8 +84,8 @@ We may also collect information that Your browser sends whenever You visit our S
 While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
 
 - Information regarding your location
-
-
+- Information from your Device's phone book (contacts list)
+- Pictures and other information from your Device's camera and photo library
 
 We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
 
