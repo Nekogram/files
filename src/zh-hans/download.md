@@ -4,6 +4,4 @@
 
 [GitHub](https://github.com/tehcneko/nekogram-files/releases)
 
-[Nekogram Drive](https://drive.nekogram.app)
-
 [Telegram 频道](https://t.me/NekogramAPKs)
