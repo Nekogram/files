@@ -1,5 +1,10 @@
 # Changelog
 
+## 8.4.4.1 (2022-01-28)
+
+- Allow customize message double tap action
+- Bug fixes and other improvements
+
 ## 8.4.4 (2022-01-19)
 
 - Allow set icons for chat folders
