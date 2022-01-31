@@ -28,7 +28,7 @@ jobs:
     - name: Build
       run: npm run build
 
-    - uses: JamesIves/github-pages-deploy-action@v4.2.2
+    - uses: JamesIves/github-pages-deploy-action@v4.2.3
       with:
         branch: gh-pages
         folder: src/.vuepress/dist
