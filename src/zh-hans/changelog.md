@@ -1,5 +1,9 @@
 # 更新日志
 
+## 8.5.0 (2022-02-02)
+
+- <https://telegram.org/blog/video-stickers-better-reactions>
+
 ## 8.4.4.1 (2022-01-28)
 
 - 允许自定义消息双击操作
