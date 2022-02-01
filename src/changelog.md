@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.5.0 (2022-02-02)
+
+- <https://telegram.org/blog/video-stickers-better-reactions>
+
 ## 8.4.4.1 (2022-01-28)
 
 - Allow customize message double tap action
