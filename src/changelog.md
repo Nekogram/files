@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.5.1 (2022-02-04)
+
+- Bug fixes and other improvements
+
 ## 8.5.0 (2022-02-02)
 
 - <https://telegram.org/blog/video-stickers-better-reactions>

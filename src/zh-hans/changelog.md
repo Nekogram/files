@@ -1,5 +1,9 @@
 # 更新日志
 
+## 8.5.1 (2022-02-04)
+
+- 错误修复和其他改进
+
 ## 8.5.0 (2022-02-02)
 
 - <https://telegram.org/blog/video-stickers-better-reactions>
