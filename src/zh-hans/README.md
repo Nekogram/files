@@ -5,7 +5,7 @@ description: Nekogram 是一个修改不多但都很有用的开源第三方 Tel
 actionText: 下载
 actionLink: /zh-hans/download.html
 secondaryActionText: 频道
-secondaryActionLink: https://t.me/zuragram
+secondaryActionLink: https://t.me/nekoupdates
 features:
 - title: 外观
   details: 使用您的头像作为抽屉背景、使用系统字体或表情符号、让状态栏透明等等。
