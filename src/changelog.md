@@ -1,5 +1,10 @@
 # Changelog
 
+## 8.5.2 (2022-02-12)
+
+- **Auto Translate** — Translating messages in other languages automatically
+- Fixed saving video stickers to gallery
+
 ## 8.5.1 (2022-02-04)
 
 - Bug fixes and other improvements
