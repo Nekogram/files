@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.5.4 (2022-02-16)
+
+- Bug fixes and other improvements
+
 ## 8.5.2 (2022-02-12)
 
 - **Auto Translate** — Translating messages in other languages automatically
