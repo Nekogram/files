@@ -43,9 +43,10 @@ body
   left 0
   right 0
   height $navbarHeight
-  background-color #fff
+  background-color rgba(255, 255, 255, 0.3)
   box-sizing border-box
   border-bottom 1px solid $borderColor
+  backdrop-filter blur(10px)
 
 .sidebar-mask
   position fixed
@@ -58,7 +59,7 @@ body
 
 .sidebar
   font-size 16px
-  background-color #fff
+  background-color rgba(255, 255, 255, 0.3)
   width $sidebarWidth
   position fixed
   z-index 10
@@ -69,6 +70,7 @@ body
   box-sizing border-box
   border-right 1px solid $borderColor
   overflow-y auto
+  backdrop-filter blur(10px)
 
 {$contentClass}:not(.custom)
   @extend $wrapper
