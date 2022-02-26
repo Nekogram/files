@@ -6,6 +6,7 @@ const langMap = {
 var timestampCache = {}
 
 module.exports = {
+  evergreen: true,
   base: '/',
   title: 'Nekogram',
   head: [
