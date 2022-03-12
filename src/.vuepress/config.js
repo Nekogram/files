@@ -159,7 +159,7 @@ function getNavbar(prefix, features, download, changelog, translations) {
   return [
     //{ text: features, link: `${prefix}features.html` },
     { text: download, link: `${prefix}download.html` },
-    { text: changelog, link: `${prefix}changelog.html` },
+    { text: changelog, link: `changelog.html` },
     { text: translations, link: `https://neko.crowdin.com/nekogram` },
   ]
 }
