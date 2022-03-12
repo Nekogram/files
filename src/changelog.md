@@ -1,5 +1,21 @@
 # Changelog
 
+## 8.6.0 (2022-03-12)
+
+#### Telegram side
+
+- <https://telegram.org/blog/downloads-attachments-streaming>
+
+#### Nekogram side
+
+- Added undo and redo options
+- Added disable markdown option
+- Allow copy bot button title/url/callback
+- Allow editing existing text urls
+- Preview hex colors like #ffb3ba
+- Navigate through clicked reply with page down button
+- Bug fixes and other improvements
+
 ## 8.5.4 (2022-02-16)
 
 - Bug fixes and other improvements
@@ -35,6 +51,7 @@
 - Bug fixes and other improvements
 
 #### Android 12 only:
+
 - Use `CallStyle` notifications for calls
 - Allow sending photos from notification quick reply
 - Allow drop photos in to chat to send
