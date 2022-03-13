@@ -1,5 +1,11 @@
 # Changelog
 
+## 8.6.1 (2022-03-13)
+
+- Fixed pasting photos from clipboard
+- Enabled blur for all devices and themes
+- Bug fixes and other improvements
+
 ## 8.6.0 (2022-03-12)
 
 #### Telegram side
