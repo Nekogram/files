@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.6.2 (2022-03-21)
+
+- Keep formatting when copy-pasting text in chat
+
 ## 8.6.1 (2022-03-13)
 
 - Fixed pasting photos from clipboard
