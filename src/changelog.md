@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.6.2.1 (2022-03-27)
+
+- Bug fixes and other improvements
+
 ## 8.6.2 (2022-03-21)
 
 - Keep formatting when copy-pasting text in chat
