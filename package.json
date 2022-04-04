@@ -5,7 +5,7 @@
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.9.7",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "vuepress": "^1.9.7",
     "vuepress-plugin-autometa": "^0.1.13",
     "vuepress-plugin-clean-urls": "^1.1.2",
