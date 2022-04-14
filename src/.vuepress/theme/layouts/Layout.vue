@@ -118,6 +118,7 @@ export default {
     this.$router.afterEach(() => {
       this.isSidebarOpen = false
     })
+    require('vanilla-ripplejs')
   },
 
   methods: {

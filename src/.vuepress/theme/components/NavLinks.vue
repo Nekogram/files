@@ -29,6 +29,7 @@
     >
       {{ repoLabel }}
       <OutboundLink/>
+      <link class="rippleJS" />
     </a>
   </nav>
 </template>
@@ -131,6 +132,8 @@ export default {
     &:first-child
       margin-left 0
   .repo-link
+    line-height 2rem
+    position relative
     margin-left 1.5rem
 
 @media (max-width: $MQMobile)
@@ -142,6 +145,8 @@ export default {
   .nav-links a
     &:hover, &.router-link-active
       color $textColor
+    .rippleJS
+      border-radius: 4px;
   .nav-item > a:not(.external)
     &:hover, &.router-link-active
       margin-bottom -2px

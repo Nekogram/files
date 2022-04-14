@@ -12,6 +12,7 @@
         class="arrow"
         :class="open ? 'down' : 'right'"
       ></span>
+      <link class="rippleJS" />
     </a>
 
     <DropdownTransition>
@@ -148,6 +149,7 @@ export default {
 
 @media (min-width: $MQMobile)
   .dropdown-wrapper
+    display inline-block
     height 1.8rem
     &:hover .nav-dropdown
       // override the inline style.

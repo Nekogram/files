@@ -4,7 +4,7 @@
     :to="link"
     v-if="!isExternal(link)"
     :exact="exact"
-  >{{ item.text }}</router-link>
+  >{{ item.text }}<link class="rippleJS" /></router-link>
   <a
     v-else
     :href="link"
@@ -13,6 +13,7 @@
     :rel="isMailto(link) || isTel(link) ? null : 'noopener noreferrer'"
   >
     {{ item.text }}
+    <link class="rippleJS" />
     <OutboundLink/>
   </a>
 </template>
