@@ -1,5 +1,11 @@
 # Changelog
 
+## 8.7.0 (2022-04-17)
+
+- <https://telegram.org/blog/notifications-bots/>
+- Copy links to any Neko Settings options
+- Bug fixes and other improvements
+
 ## 8.6.2.1 (2022-03-27)
 
 - Bug fixes and other improvements
