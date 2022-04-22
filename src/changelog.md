@@ -1,5 +1,10 @@
 # Changelog
 
+## 8.7.1 (2022-04-22)
+
+- Built-in [monet themes](https://github.com/c3r5b8/Telegram-Monet) for Android 12+
+- Bug fixes and other improvements
+
 ## 8.7.0 (2022-04-17)
 
 - <https://telegram.org/blog/notifications-bots/>
