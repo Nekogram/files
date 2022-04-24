@@ -5,6 +5,7 @@
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.9.7",
+    "@vuepress/plugin-medium-zoom": "^1.9.7",
     "moment": "^2.29.3",
     "vanilla-ripplejs": "^1.0.6",
     "vuepress": "^1.9.7",

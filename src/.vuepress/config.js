@@ -151,7 +151,8 @@ module.exports = {
         },
         canonical_base: 'https://nekogram.app',
       }
-    ]
+    ],
+    ['@vuepress/medium-zoom']
   ]
 }
 
