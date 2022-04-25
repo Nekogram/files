@@ -46,6 +46,9 @@ This page contains a list of features in Nekogram.
 - Built-in proxy with Cloudflare
 - Hide the phone number on the profile page
 - Built-in monet themes for Android 12+
+- Show DC id in photo viewer
+- Show ID and user DC id in profile
+- Show upload date of profile photo in photo viewer
 - Fast link for every customization options
 
 ## Neko settings
@@ -61,10 +64,10 @@ This page contains a list of features in Nekogram.
 #### Translator providers
 
 - Google Translate
-- Lingocloud
 - Yandex Translate
-- DeepL Translate
 - Microsoft Translator
+- DeepL Translate
+- Lingocloud
 
 ![General neko settings screenshot](/images/General.png)
 
