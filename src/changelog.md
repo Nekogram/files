@@ -1,5 +1,11 @@
 # Changelog
 
+## 8.7.4 (2022-04-29)
+
+- Set passcode for each account and hide them
+- Translator improvements
+- Bug fixes and other improvements
+
 ## 8.7.2 (2022-04-23)
 
 - Bug fixes and other improvements
