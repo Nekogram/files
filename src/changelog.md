@@ -1,5 +1,10 @@
 # Changelog
 
+## 8.7.4.1 (2022-04-30)
+
+- Enable/Disable auto tanslate per dialog
+- Bug fixes and other improvements
+
 ## 8.7.4 (2022-04-29)
 
 - Set passcode for each account and hide them
