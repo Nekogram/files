@@ -1,5 +1,12 @@
 # Changelog
 
+## 8.7.4.2 (2022-05-07)
+
+- Allow hide time on stickers
+- Add support for `tg://user?id=user_id` link
+- Updated folder icons
+- Bug fixes and other improvements
+
 ## 8.7.4.1 (2022-04-30)
 
 - Enable/Disable auto tanslate per dialog
