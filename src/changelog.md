@@ -4,7 +4,7 @@
 
 - Allow hide time on stickers
 - Add support for `tg://user?id=user_id` link
-- Updated folder icons
+- New folder icons
 - Bug fixes and other improvements
 
 ## 8.7.4.1 (2022-04-30)
