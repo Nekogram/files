@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.7.4.3 (2022-05-18)
+
+- Bug fixes and other improvements
+
 ## 8.7.4.2 (2022-05-07)
 
 - Allow hide time on stickers
