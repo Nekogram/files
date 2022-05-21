@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.7.4.4 (2022-05-21)
+
+- Fix crashes.
+
 ## 8.7.4.3 (2022-05-18)
 
 - Bug fixes and other improvements
