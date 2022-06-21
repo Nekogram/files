@@ -1,8 +1,15 @@
 # Changelog
 
+## 8.8.2 (2022-06-21)
+
+- [**Telegram Premium**](https://telegram.org/blog/700-million-and-premium)
+- Eight new app icons made by [@RKBDI](https://t.me/RKBDI)
+- New markdown parser with syntax highlight and link support
+- Bug fixes and other improvements
+
 ## 8.7.4.4 (2022-05-21)
 
-- Fix crashes.
+- Fix crashes
 
 ## 8.7.4.3 (2022-05-18)
 
