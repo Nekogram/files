@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.8.3 (2022-06-23)
+
+- Bug fixes and other improvements
+
 ## 8.8.2 (2022-06-21)
 
 - [**Telegram Premium**](https://telegram.org/blog/700-million-and-premium)
