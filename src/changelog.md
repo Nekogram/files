@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.8.4 (2022-06-28)
+
+- Bug fixes and other improvements
+
 ## 8.8.3 (2022-06-23)
 
 - Bug fixes and other improvements
