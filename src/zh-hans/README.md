@@ -13,7 +13,5 @@ features:
   details: 设置贴纸大小、让文件夹显示在转发页面、切换到后台时自动暂停视频。
 - title: 翻译
   details: 翻译消息和文章，有多种翻译引擎可供选择。
-- title: 实验性
-  details: 自定义 Emoji 字体、无限置顶聊天或收藏贴纸。
 footer: Copyright © 2022 NekoWorkshop ‧ Made with ❤️
 ---
