@@ -1,5 +1,10 @@
 # Changelog
 
+## 8.8.5.1 (2022-07-11)
+
+- Updated monet theme to 4.1.0
+- Fixed some crashes
+
 ## 8.8.5 (2022-07-04)
 
 - Bug fixes and other improvements
