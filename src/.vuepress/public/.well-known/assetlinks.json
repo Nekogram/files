@@ -1,0 +1,20 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "tw.nekomimi.nekogram",
+        "sha256_cert_fingerprints":
+          ["5C:E9:32:B9:70:19:9F:BD:A2:AA:E7:BF:21:E1:AD:9E:70:B0:80:9A:7B:1A:C9:4C:06:99:F5:D5:AD:A8:33:13"]
+      }
+    },
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+          "namespace": "android_app",
+          "package_name": "tw.nekomimi.nekogram.beta",
+          "sha256_cert_fingerprints":
+            ["5C:E9:32:B9:70:19:9F:BD:A2:AA:E7:BF:21:E1:AD:9E:70:B0:80:9A:7B:1A:C9:4C:06:99:F5:D5:AD:A8:33:13"]
+        }
+      }
+  ]
