@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.9.2 (2022-08-14)
+
+- <https://telegram.org/blog/custom-emoji>
+
 ## 8.8.5.1 (2022-07-11)
 
 - Updated monet theme to 4.1.0
