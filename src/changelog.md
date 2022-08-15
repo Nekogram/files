@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.9.3 (2022-08-15)
+
+- Bug fixes and other improvements
+
 ## 8.9.2 (2022-08-14)
 
 - <https://telegram.org/blog/custom-emoji>
