@@ -1,5 +1,11 @@
 # Changelog
 
+## 8.9.3.1 (2022-08-22)
+
+- Added Save to Downloads to Download Manager
+- Updated monet theme to 8.9.0
+- Fixed Use system emoji
+
 ## 8.9.3 (2022-08-15)
 
 - Bug fixes and other improvements
