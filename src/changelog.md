@@ -1,5 +1,10 @@
 # Changelog
 
+## 9.0.0 (2022-09-17)
+
+- <https://telegram.org/blog/infinite-reactions-statuses>
+- Themed icon support for more icons by @RKBDI
+
 ## 8.9.3.1 (2022-08-22)
 
 - Added Save to Downloads to Download Manager
