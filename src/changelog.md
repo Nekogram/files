@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.0.2 (2022-09-21)
+
+- Bug fixes and other improvements
+
 ## 9.0.0 (2022-09-17)
 
 - <https://telegram.org/blog/infinite-reactions-statuses>
