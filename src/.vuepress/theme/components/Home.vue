@@ -102,6 +102,8 @@ export default {
       max-height 280px
       display block
       margin 3rem auto 1.5rem
+      order-radius 50%
+      box-shadow 0 0 5px hsl(0deg 0% 0% / 50%)
     h1
       font-size 3rem
 	 h1, .description, .actions
