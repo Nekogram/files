@@ -112,7 +112,6 @@ export default {
       line-height 1.3
       color lighten($textColor, 40%)
 	.action
-	  position relative
 	  margin 0.6rem
 	.actions
       display flex
