@@ -2,7 +2,7 @@
 
 ## 9.1.1 (2022-11-06)
 
-- <https://telegram.org/blog/topics-in-groups-collectible-username>
+- <https://telegram.org/blog/topics-in-groups-collectible-usernames>
 - "Set a reminder" in message context menu
 
 ## 9.0.2 (2022-09-21)
