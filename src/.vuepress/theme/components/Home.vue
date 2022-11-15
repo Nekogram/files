@@ -103,7 +103,7 @@ export default {
       display block
       margin 3rem auto 1.5rem
       border-radius 50%
-      box-shadow 0 0 5px hsl(0deg 0% 0% / 50%)
+      box-shadow 0 0 5px rgba(0, 0, 0, 0.5)
     h1
       font-size 3rem
 	 h1, .description, .actions
