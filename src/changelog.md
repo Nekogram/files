@@ -1,5 +1,11 @@
 # Changelog
 
+## 9.1.6 (2022-11-27)
+
+- "Hide 'All Chats' tab" is back
+- Option to disable sticker packs auto-reorder
+- Bug fixes and other improvements
+
 ## 9.1.3 (2022-11-12)
 
 - Bug fixes and other improvements
