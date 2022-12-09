@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.2.2 (2022-12-09)
+
+- <https://telegram.org/blog/ultimate-privacy-topics-2-0>
+
 ## 9.1.6 (2022-11-27)
 
 - "Hide 'All Chats' tab" is back
