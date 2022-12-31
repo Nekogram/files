@@ -13,5 +13,5 @@ features:
   details: Set sticker size, let folders be shown on the forward page and pause video automatically when switched to the background.
 - title: Translator
   details: Translate messages and articles, with multiple translation engines to choose from.
-footer: Copyright © 2022 NekoWorkshop ‧ Made with ❤️
+footer: Copyright © 2023 NekoWorkshop ‧ Made with ❤️
 ---
