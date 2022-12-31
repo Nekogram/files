@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.3.2 (2022-12-31)
+
+- <https://telegram.org/blog/hidden-media-zero-storage-profile-pics>
+
 ## 9.2.2 (2022-12-09)
 
 - <https://telegram.org/blog/ultimate-privacy-topics-2-0>
