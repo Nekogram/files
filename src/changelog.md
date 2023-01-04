@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.3.3 (2023-01-04)
+
+- Bug fixes and other improvements
+
 ## 9.3.2 (2022-12-31)
 
 - <https://telegram.org/blog/hidden-media-zero-storage-profile-pics>
