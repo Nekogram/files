@@ -5,7 +5,7 @@
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.9.7",
-    "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "@vuepress/plugin-medium-zoom": "^1.9.8",
     "moment": "^2.29.4",
     "vuepress": "^1.9.7",
     "vuepress-plugin-autometa": "^0.1.13",
