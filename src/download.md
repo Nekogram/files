@@ -6,8 +6,6 @@
 
 [Telegram Channel](https://t.me/NekogramAPKs) <Badge text="recommended" type="tip"/>
 
-[IPFS](https://cloudflare-ipfs.com/ipns/nekomimi.tw/)
-
 ::: tip
 Install "universal" version in case you don't know which APK to install.
 :::
