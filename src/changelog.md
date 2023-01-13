@@ -1,5 +1,10 @@
 # Changelog
 
+## 9.3.3.1 (2023-01-13)
+
+- Customize emoji sets
+- Bug fixes and other improvements
+
 ## 9.3.3 (2023-01-04)
 
 - Bug fixes and other improvements
