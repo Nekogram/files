@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.4.5 (2023-02-25)
+
+- <https://telegram.org/blog/profile-pics-emoji-translations>
+
 ## 9.3.3.1 (2023-01-13)
 
 - Customize emoji sets
