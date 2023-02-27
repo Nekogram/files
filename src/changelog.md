@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.4.7 (2023-02-27)
+
+- Bug fixes and other improvements
+
 ## 9.4.5 (2023-02-25)
 
 - <https://telegram.org/blog/profile-pics-emoji-translations>
