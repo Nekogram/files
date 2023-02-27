@@ -4,7 +4,7 @@
     "build": "vuepress build src"
   },
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.9.8",
+    "@vuepress/plugin-google-analytics": "^1.9.9",
     "@vuepress/plugin-medium-zoom": "^1.9.8",
     "moment": "^2.29.4",
     "vuepress": "^1.9.9",
