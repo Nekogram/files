@@ -1,6 +1,6 @@
 # Changelog
 
-## 9.4.7 (2023-02-27)
+## 9.4.8 (2023-02-27)
 
 - Bug fixes and other improvements
 
