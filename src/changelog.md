@@ -1,5 +1,13 @@
 # Changelog
 
+## 9.5.2 (2023-03-11)
+
+- Bug fixes and other improvements
+
+## 9.5.0 (2023-03-08)
+
+- <https://telegram.org/blog/power-saving>
+
 ## 9.4.8 (2023-02-27)
 
 - Bug fixes and other improvements
