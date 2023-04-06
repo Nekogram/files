@@ -1,5 +1,10 @@
 # Changelog
 
+## 9.5.8 (2023-04-06)
+
+- Redesigned forward menu
+- Bug fixes and other improvements
+
 ## 9.5.7 (2023-03-31)
 
 - Bug fixes and other improvements
