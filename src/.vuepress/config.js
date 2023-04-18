@@ -52,7 +52,9 @@ module.exports = {
     ['link', { rel: 'icon', type: 'image/png', size: '192x192', href: '/icon/android-icon-192x192.png' }],
     ['link', { rel: 'icon', type: 'image/png', size: '32x32', href: '/icon/favicon-32x32.png' }],
     ['link', { rel: 'icon', type: 'image/png', size: '96x96', href: '/icon/favicon-96x96.png' }],
-    ['link', { rel: 'icon', type: 'image/png', size: '16x16', href: '/icon/favicon-16x16.png' }]
+    ['link', { rel: 'icon', type: 'image/png', size: '16x16', href: '/icon/favicon-16x16.png' }],
+    ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-BFBNXGKZQW' }],
+    ['script', {}, ["window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-BFBNXGKZQW');"]],
   ],
   locales: {
     '/': {
@@ -135,12 +137,6 @@ module.exports = {
 
           return localized
         }
-      }
-    ],
-    [
-      '@vuepress/google-analytics',
-      {
-        'ga': 'UA-68662540-8'
       }
     ],
     [
