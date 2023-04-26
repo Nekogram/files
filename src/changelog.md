@@ -1,5 +1,11 @@
 # Changelog
 
+## 9.6.2 (2023-04-26)
+
+- <https://telegram.org/blog/shareable-folders-custom-wallpapers>
+- Scan QR Codes on images directly in chat
+- Bug fixes and other improvements
+
 ## 9.5.8 (2023-04-06)
 
 - Redesigned forward menu
