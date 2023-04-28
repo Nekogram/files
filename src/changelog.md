@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.6.3 (2023-04-28)
+
+- Bug fixes and other improvements
+
 ## 9.6.2 (2023-04-26)
 
 - <https://telegram.org/blog/shareable-folders-custom-wallpapers>
