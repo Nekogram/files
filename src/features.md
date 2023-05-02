@@ -1,5 +1,6 @@
-# Features (unfinished)
+# Features (incomplete)
 
+**NOTE: This page wasn't updated for more than a year.**  
 This page contains a list of features in Nekogram.
 
 ## General modifications
