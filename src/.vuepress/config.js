@@ -82,34 +82,17 @@ module.exports = {
       '/': {
         selectText: 'Languages',
         label: 'English',
-        serviceWorker: {
-          updatePopup: {
-            message: "New content is available.",
-            buttonText: "Refresh"
-          }
-        },
         nav: getNavbar('/', 'Features', 'Download', 'Changelog', 'Translations'),
-        lastUpdated: 'Last Updated'
       },
       '/zh-hans/': {
         selectText: '语言',
         label: '简体中文',
         editLinkText: '在 GitHub 上编辑此页',
-        serviceWorker: {
-          updatePopup: {
-            message: "发现新内容可用.",
-            buttonText: "刷新"
-          }
-        },
         nav: getNavbar('/zh-hans/', '特性', '下载', '更新日志', '翻译'),
-        lastUpdated: '最后更新'
       }
     },
     displayAllHeaders: true,
     sidebarDepth: 2,
-    serviceWorker: {
-      updatePopup: true
-    },
     repo: 'https://gitlab.com/Nekogram/Nekogram',
     docsRepo: 'https://github.com/tehcneko/nekogram-files',
     docsBranch: 'main',
@@ -122,9 +105,6 @@ module.exports = {
       {
         hostname: 'https://nekogram.app',
         exclude: ['/404.html'],
-        dateFormatter: (time) => {
-          timestampCache[time]
-        }
       }
     ],
     [
@@ -133,23 +113,6 @@ module.exports = {
         normalSuffix: '/',
         indexSuffix: '/',
         notFoundPath: '/404.html'
-      }
-    ],
-    [
-      '@vuepress/last-updated',
-      {
-        transformer: (timestamp, lang) => {
-          var original = timestamp
-
-          moment.locale(langMap[lang])
-          var localized = moment(original).format('lll')
-
-          moment.locale('en')
-          var iso = moment(original).toISOString()
-          timestampCache[localized] = iso
-
-          return localized
-        }
       }
     ],
     [
