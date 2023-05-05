@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.6.5 (2023-05-05)
+
+- Bug fixes and other improvements
+
 ## 9.6.3 (2023-04-28)
 
 - Bug fixes and other improvements
