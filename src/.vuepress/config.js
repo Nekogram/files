@@ -1,4 +1,3 @@
-const moment = require('moment')
 const langMap = {
   "zh-Hans": "zh-cn",
 }
