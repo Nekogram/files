@@ -3,7 +3,7 @@ home: true
 heroImage: /logo.png
 description: Nekogram is an open-source third-party Telegram client with not many but useful mods
 actionText: Download
-actionLink: /download.html
+actionLink: /download/
 secondaryActionText: Channel
 secondaryActionLink: https://t.me/nekoupdates
 features:
