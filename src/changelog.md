@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.7.4 (2023-08-07)
+
+- Bug fixes and other improvements
+
 ## 9.7.4 (2023-08-05)
 
 - Stories
