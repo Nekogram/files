@@ -1,5 +1,9 @@
 # Changelog
 
+## 10.0.4 (2023-08-27)
+
+- Bug fixes and other improvements
+
 ## 10.0.1 (2023-08-20)
 
 - <https://telegram.org/blog/stories>
