@@ -1,5 +1,11 @@
 # Changelog
 
+## 10.0.5 (2023-09-07)
+
+- Allow replacing forward with quick forward menu
+- Set "delete own messages" to only delete messages before a date
+- Bug fixes and other improvements
+
 ## 10.0.4 (2023-08-27)
 
 - Bug fixes and other improvements
