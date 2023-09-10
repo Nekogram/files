@@ -92,8 +92,8 @@ module.exports = {
     },
     displayAllHeaders: true,
     sidebarDepth: 2,
-    repo: 'https://gitlab.com/Nekogram/Nekogram',
-    docsRepo: 'https://github.com/tehcneko/nekogram-files',
+    repo: 'https://github.com/Nekogram/Nekogram',
+    docsRepo: 'https://github.com/Nekogram/files',
     docsBranch: 'main',
     docsDir: 'src',
     editLinks: true

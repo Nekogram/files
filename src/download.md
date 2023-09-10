@@ -2,7 +2,7 @@
 
 **Requirement:** Android 5.0+
 
-[GitHub](https://github.com/tehcneko/nekogram-files/releases)
+[GitHub](https://github.com/Nekogram/Nekogram/releases)
 
 [Telegram Channel](https://t.me/NekogramAPKs) <Badge text="recommended" type="tip"/>
 

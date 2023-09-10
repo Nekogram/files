@@ -2,7 +2,7 @@
 
 **需求:** Android 5.0 以上设备
 
-[GitHub](https://github.com/tehcneko/nekogram-files/releases)
+[GitHub](https://github.com/Nekogram/Nekogram/releases)
 
 [Telegram 频道](https://t.me/NekogramAPKs) <Badge text="推荐" type="tip"/>
 
