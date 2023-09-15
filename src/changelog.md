@@ -1,5 +1,10 @@
 # Changelog
 
+## 10.0.8 (2023-09-15)
+
+- Backup Neko Settings with Cloud Settings
+- Bug fixes and other improvements
+
 ## 10.0.5 (2023-09-07)
 
 - Allow replacing forward with quick forward menu
