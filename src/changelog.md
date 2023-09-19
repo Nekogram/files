@@ -1,5 +1,9 @@
 # Changelog
 
+## 10.0.9 (2023-09-18)
+
+- Bug fixes and other improvements
+
 ## 10.0.8 (2023-09-15)
 
 - Backup Neko Settings with Cloud Settings
