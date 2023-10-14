@@ -1,5 +1,9 @@
 # Changelog
 
+## 10.1.1 (2023-10-14)
+
+- Bug fixes and other improvements
+
 ## 10.1.1 (2023-09-24)
 
 - <https://telegram.org/blog/channel-stories>
