@@ -1,6 +1,11 @@
 # Changelog
 
-## 10.1.1 (2023-10-14)
+## 10.2.0 (2023-10-30)
+
+- <https://telegram.org/blog/reply-revolution>
+- Bug fixes and other improvements
+
+## 10.1.1.1 (2023-10-14)
 
 - Bug fixes and other improvements
 
