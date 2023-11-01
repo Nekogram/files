@@ -1,5 +1,9 @@
 # Changelog
 
+## 10.2.2 (2023-11-01)
+
+- Bug fixes and other improvements
+
 ## 10.2.0 (2023-10-30)
 
 - <https://telegram.org/blog/reply-revolution>
