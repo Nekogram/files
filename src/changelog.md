@@ -1,5 +1,9 @@
 # Changelog
 
+## 10.2.3 (2023-11-02)
+
+- Bug fixes and other improvements
+
 ## 10.2.2 (2023-11-01)
 
 - Bug fixes and other improvements
